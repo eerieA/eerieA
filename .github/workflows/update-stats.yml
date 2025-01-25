@@ -16,7 +16,7 @@ jobs:
       
       - name: Fetch stats from gitpeek-lang
         run: |
-          mkdir -p assets  # Create dir if not exist
+          mkdir -p assets
           curl "https://gitpeek-lang.onrender.com/api/GitHubStats/eerieA/graph?barHeight=15&lgItemWidth=145&lgItemMaxCnt=8" > assets/github-language-stats.svg'
 
       - name: Commit and push if changed
