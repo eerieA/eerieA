@@ -3,4 +3,5 @@
 Greetings adventurer! It is nice to meet you.
 
 ### Languages I Speak
-![GitHub Language Statistics](./assets/github-language-stats.svg)
+
+<img alt="Language Stats image" src="./assets/github-language-stats.svg" width="560">
