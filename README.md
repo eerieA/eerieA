@@ -14,8 +14,8 @@ Does not include professional projects 🫡.
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
-| [Astro compact - peronal site](https://github.com/eerieA/astro-comp) | [Coding quiz platform](https://github.com/eerieA/coding-tutor-log-only) |
-| <img alt="Astro compact personal website demo" src="https://github.com/eerieA/astro-comp/blob/b8648715f456889886997cb8454e12e189d9f8e1/public/preview02.gif" width="280"> | <img alt="Coding quiz platform demo" src="https://github.com/eerieA/coding-tutor-log-only/blob/205844ab017dff52128e49fc0115984d70ffb2e6/resources/Retro%202%20screenshot.gif" width="280"> |
+| [Peronal site](https://github.com/eerieA/personal-site) | [Coding quiz platform](https://github.com/eerieA/coding-tutor-log-only) |
+| <img alt="personal website demo" src="https://github.com/eerieA/personal-site/blob/ab714525e497982c3499eca2691612b70ee9f955/public/preview03.gif" width="280"> | <img alt="Coding quiz platform demo" src="https://github.com/eerieA/coding-tutor-log-only/blob/205844ab017dff52128e49fc0115984d70ffb2e6/resources/Retro%202%20screenshot.gif" width="280"> |
 | [NDL crypto data viewer](https://github.com/eerieA/ndl-view)  | [Git peek micro service](https://github.com/eerieA/gitpeek-lang) |
 | <img alt="NDL view app screenshot" src="https://github.com/eerieA/ndl-view/blob/5fdec41002920f58fdaadefa938976ecfac98680/shared/preview.gif" width="280"> | <img alt="Git peek micro service screenshot" src="https://live.staticflickr.com/65535/54493292261_b6f4b2dcbd_c.jpg" width="280"> |
 | [Dissolve fx (three.js)](https://github.com/eerieA/threejs-pg?tab=readme-ov-file#dissolve-fx)  | [Topographical lines (Unity)](https://github.com/eerieA/ut-topomap?tab=readme-ov-file#preview) |
